@@ -61,6 +61,8 @@ npm start
 
 # Weather -app User Interface
 
+
+
 ![1](https://github.com/user-attachments/assets/ca582076-c0bf-481b-9b2e-d89daa1ae10d)
 
 
