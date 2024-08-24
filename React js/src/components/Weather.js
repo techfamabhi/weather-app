@@ -16,7 +16,7 @@ const Weather = () => {
         }
 
         try {
-            const response = await axios.get(`https://weatherapp.gayatriinfotech.in/api/weather`, {
+            const response = await axios.get(`http://127.0.0.1:8000/api/weather`, {
                 params: { city }
             });
             setWeatherData(response.data);
