@@ -59,11 +59,17 @@ npm start
 
 # Project Images 
 
+# Weather -app User Interface
 
 ![1](https://github.com/user-attachments/assets/ca582076-c0bf-481b-9b2e-d89daa1ae10d)
 
+# Search with Weather Details
 ![Wrong City Name](https://github.com/user-attachments/assets/20056be7-08bd-46a9-a10e-03f5812fe01f)
 ![Validation](https://github.com/user-attachments/assets/5d743b7b-d7e1-4b12-ab7b-eeb394f4753b)
+
+# User Must Enter Correct City Name
 ![search result](https://github.com/user-attachments/assets/3c0ef369-fdc7-44c9-bb48-a0e3e05263df)
+
+# Validation 
 ![search result with data](https://github.com/user-attachments/assets/7b3017ce-8a11-47e4-8fa5-947e903dd78d)
 
